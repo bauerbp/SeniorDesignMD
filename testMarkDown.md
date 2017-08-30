@@ -2,7 +2,7 @@
 ## Contact Information
 bauerbp@mail.uc.edu
 ## Co\-op Work Experience
-####Siemens PLM Software
+#### Siemens PLM Software
 * Teamcenter Integration
 * Developed within large codebase to fix regressions and add features
 * Created autotests to prevent new regressions
@@ -11,6 +11,7 @@ bauerbp@mail.uc.edu
 #### Projects
 * Image analysis software
 * Web application
+* Game Engine
 ## Project Sought
 * Network Science, maybe new ways to enumerate cliques within a graph
 * Biology simulation
