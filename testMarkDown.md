@@ -14,4 +14,4 @@ bauerbp@mail.uc.edu
 * Game Engine
 ## Project Sought
 * Network Science, maybe new ways to enumerate cliques within a graph
-* Biology simulation
+* Biological systems simulation
